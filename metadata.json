@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Digital Silence Mapping System (DSMS)",
+  "description": "A sophisticated noise pollution tracking and visualization platform that identifies quiet, moderate, and noisy urban zones using real-time community data and AI-driven urban insights.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
